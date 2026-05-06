@@ -68,19 +68,19 @@ Created visual reports and charts to communicate findings clearly to stakeholder
 Documented the full analytics workflow using Jupyter Notebook and Markdown explanations.
 Presented recommendations for improving pricing decisions using predictive analytics.
 
-Technical Skills Used
-Python
-Pandas
-NumPy
-Scikit-learn
-XGBoost
-Data Cleaning
-Feature Engineering
-Exploratory Data Analysis (EDA)
-Machine Learning
-Regression Modelling
-Cross Validation
-Forecasting
-Data Visualisation
-Jupyter Notebook
+Technical Skills Used:
+Python,
+Pandas,
+NumPy,
+Scikit-learn,
+XGBoost,
+Data Cleaning,
+Feature Engineering,
+Exploratory Data Analysis (EDA),
+Machine Learning,
+Regression Modelling,
+Cross Validation,
+Forecasting,
+Data Visualisation,
+Jupyter Notebook,
 Kaggle
